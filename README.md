@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marius-PruteanOSF
 - 👀 I’m interested in development and optimal code
 - 🌱 I’m currently learning and learning and ...
-- 💞️ I’m looking to collaborate on inspirational projects
+- 💞️ I’m looking to collaborate on inspirational projects.
 
 
 <!---
